@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 * **JPMorgan Chase & Co.** — Junior Software Engineer (2 years)
 * **University at Buffalo** — Pursuing B.S. / M.S. in Computer Science and Engineering
 
-
-[LinkedIn](https://linkedin.com/in/your-linkedin) · [Email](mailto:your.email@example.com)
-
 ---
 
 ## Featured Projects
