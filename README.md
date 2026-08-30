@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 * End to end ML project with clean documentation of feature engineering and data pipelines from raw data files to a production model.
 
 ### [MRI Alzheimer’s Classification Study](https://github.com/wchen222/alzheimers-stage-classification)
-* Conducted a comparative analysis between ResNet-50 (25M parameters) and LLaVA-Med-7B under severe data constraints (OASIS 8k subset).
+* Conducted a comparative analysis between ResNet-50 and LLaVA-Med-7B under severe data constraints (OASIS 8k subset).
 
 ### [Movie Recommendation Engine](https://github.com/wchen222/movie_recommendation_engine)
 * Architected a collab filtering model via matrix factorization with mini batch gradient descent, optimized for cold start users.
