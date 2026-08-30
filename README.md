@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Wilson Chen
 
 * I am a Machine Learning Engineer focused on ML systems, backend infrastructure, and scalable data pipelines.
-* Current Focus: Deep Learning, Distributed Systems, Computer Vision, Computational Linguistics, Reinforcement Learning, and large scale data with Apache Spark.
+* Current Focus: Deep Learning, Distributed Systems, Computer Vision, Computational Linguistics, Reinforcement Learning, Apache Spark.
 
 ---
 
