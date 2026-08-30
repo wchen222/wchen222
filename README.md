@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Wilson Chen
 
-* I am a Machine Learning Engineer focused on architecting intelligent systems.
+* I am a Machine Learning Engineer focused on architecting and engineering intelligent systems.
 * My work includes ML systems, backend infrastructure, and data pipelines.
 * Current Focus: Deep Learning, Distributed Systems, Computer Vision, Computational Linguistics, Reinforcement Learning, Apache Spark.
 
