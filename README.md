@@ -50,4 +50,5 @@ Here are some ideas to get you started:
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/wchen17/) · [Email](wilsonchenwhen@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/wchen17/)
+* Email: wilsonchenwhen@gmail
