@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Wilson Chen
 
-* I'm an aspiring Machine Learning Engineer focused on architecting and engineering intelligent systems.
+* I'm a 21 year old aspiring Machine Learning Engineer focused on architecting and engineering intelligent systems.
 * My work includes ML systems, backend infrastructure, and data pipelines.
 * Current Focus: Deep Learning, Distributed Systems, Computer Vision, Computational Linguistics, Reinforcement Learning, Apache Spark.
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Experience & Education
 
 * **JPMorgan Chase & Co.** — Junior Software Engineer (2 years)
-* **University at Buffalo** — Pursuing B.S. / M.S. in Computer Science and Engineering
+* **University at Buffalo** — Pursuing B.S. / M.S. in Computer Science and Engineering (Expected Dec 2027)
 
 ---
 
